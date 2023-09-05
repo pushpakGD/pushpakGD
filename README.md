@@ -7,9 +7,9 @@
    - Solve intriguing data challenges 🧩
 
 🗃️ Repository Structure: Each project is meticulously organized:
-    -Complete with data, code, and detailed documentation 📄
-    -Find Jupyter Notebooks, Python scripts, and relevant files with step-by-step insights 🐍
-    -Visualizations, conclusions, and recommendations are meticulously documented 📊
+    - Complete with data, code, and detailed documentation 📄
+    - Find Jupyter Notebooks, Python scripts, and relevant files with step-by-step insights 🐍
+    - Visualizations, conclusions, and recommendations are meticulously documented 📊
         
 👨🏻‍💻 Let's Connect: I'm always eager to collaborate and explore new opportunities in the realm of data analysis. Feel free to reach out to me via:
     [LinkedIn] --> https://www.linkedin.com/in/pushpakd226/ for professional connections 🤝

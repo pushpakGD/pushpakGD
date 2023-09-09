@@ -1,4 +1,4 @@
-👦🏻 **About Me**: Passionate data enthusiast with an analytical mindset. I thrive on solving real-world challenges through data analysis and have a penchant for uncovering hidden insights.
+👦🏻 **About Me**: Passionate data enthusiast with an analytical mindset.
 - I have a keen interest in working with data-related technologies and solutions
 - I mainly work with: Python (Pandas, Numpy, Matplotlib, Scikit learn), Visualization platforms, git, SQL.
 - I really enjoy working with machine learning problems

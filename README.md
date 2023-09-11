@@ -1,7 +1,7 @@
 👦🏻 **About Me**: Passionate data enthusiast with an analytical mindset.
 - I have a keen interest in working with data-related technologies and solutions
 - I mainly work with: Python (Pandas, Numpy, Matplotlib, Scikit learn), Visualization platforms, git, SQL.
-- Fun facts about me: I love working out, coffee, and exploring diverse ramen restaurants.
+- I love working out, coffee, and exploring diverse ramen restaurants.
 
 ⚒️ **Projects**: Explore a diverse range of projects where I've harnessed the power of data to:
    - Gain actionable insights for businesses 📈
